@@ -17,7 +17,7 @@ We applied RDKit to generate atom environment fingerprint to construct SOM predi
 
 
 ## graph-based methods   
-The GNN model automatically extracts atom environment features through convolutional layers. All the data has been processed, and We can train the model as follow:  
+The GNN model automatically extracts atom environment features through convolutional layers.  
 
 
 ## sequence-based methods 
