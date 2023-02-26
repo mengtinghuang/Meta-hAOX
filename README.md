@@ -1,5 +1,5 @@
 # Meta-hAOX
-# Code for "Meta-hAOX: in silico prediction of metabolic reaction catalyzed by human aldehyde oxidase" this paper  
+# Code for "In silico prediction of metabolic reaction catalyzed by human aldehyde oxidase" this paper  
 
 ## Requipments  
 * python 3.7
